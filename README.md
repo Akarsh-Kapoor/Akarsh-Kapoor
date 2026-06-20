@@ -75,12 +75,6 @@ Created interactive dashboards using AdventureWorks data.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akarsh-Kapoor&theme=tokyo-night"/>
 
-📌 Current Focus
-
-• Building End-to-End Analytics Projects
-• Learning Python for Data Analysis
-• Exploring Data Engineering
-• Open to Data Analyst / BI Analyst Opportunities
 
 ## 🤝 Connect With Me
 
