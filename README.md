@@ -51,11 +51,15 @@ Built an end-to-end Data Warehouse using SQL Server.
 Created interactive dashboards using AdventureWorks data.
 
 ✔ Revenue Analysis
+
 ✔ Profit Margin Analysis
+
 ✔ Product Insights
+
 ✔ Forecasting
 
-🔗 Repository: https://github.com/Akarsh-Kapoor/PowerBI-Business-Intelligence-Dashboard
+🔗 Repository:
+https://github.com/Akarsh-Kapoor/PowerBI-Business-Intelligence-Dashboard
 
 ## 📊 GitHub Statistics
 
